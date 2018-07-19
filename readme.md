@@ -42,8 +42,8 @@ MAIL_USERNAME=atsushi0202test@gmail.com
 MAIL_PASSWORD=hwrtwvrqwnvybxlv
 MAIL_ENCRYPTION=ssl
 MAIL_PRETEND=false
-SLACK_KEY=42620444977.353915109553
-SLACK_SECRET=7d76080bb20537972e1487621cf9c020
+SLACK_KEY=
+SLACK_SECRET=
 SLACK_REDIRECT_URI=http://localhost:8080/callback
 ```
 
@@ -59,10 +59,6 @@ php artisan migrate --seed
 
 ### Access URL  
 [http://localhost:8080](http://localhost:8080)  
-
-テスト
-
-
 
 
 
